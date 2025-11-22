@@ -166,7 +166,7 @@ python huggingface_embeddings_demo.py --model roberta-base
 python test_word_embeddings_small.py
 
 # Large-scale with visualization
-python test_word_embeddings_large.py
+python word_embeddings.py
 ```
 
 ## Understanding the Output
